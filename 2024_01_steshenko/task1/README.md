@@ -1,5 +1,5 @@
 # Multiplication table
-Task description is in file [Task_1.pdf](https://stash.korona.net/projects/FOCUSSTART/repos/2024_01_steshenko/browse/task1/Task_1.pdf?at=refs%2Fheads%2Ftask1)  
+Task description is in file [Task_1.pdf](https://github.com/nastyasteshchenko/CFT_Shift_tasks/blob/main/2024_01_steshenko/task1/Task_1.pdf)  
 **_______________________________**
 
 **To run:**  

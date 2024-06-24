@@ -1,5 +1,5 @@
 # Chat  
-Task description is in file [Task6.pdf](https://stash.korona.net/projects/FOCUSSTART/repos/2024_01_steshenko/browse/task6/Task6.pdf?at=refs%2Fheads%2Ftask6).  
+Task description is in file [Task6.pdf](https://github.com/nastyasteshchenko/CFT_Shift_tasks/blob/main/2024_01_steshenko/task6/Task6.pdf).  
 
 All commands need to be executed from `<repository-root>/task6` directory.
 ## Build

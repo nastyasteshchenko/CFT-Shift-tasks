@@ -1,5 +1,5 @@
 # Multithreading production
-Task description is in file [Task5.pdf](https://stash.korona.net/projects/FOCUSSTART/repos/2024_01_steshenko/browse/task5/Task5.pdf?at=refs%2Fheads%2Ftask5)  
+Task description is in file [Task5.pdf](https://github.com/nastyasteshchenko/CFT_Shift_tasks/blob/main/2024_01_steshenko/task5/Task5.pdf)  
 **_______________________________**
 
 **To run:**  

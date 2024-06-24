@@ -1,5 +1,5 @@
 # Shapes  
-Task description is in file [Task2.pdf](https://stash.korona.net/projects/FOCUSSTART/repos/2024_01_steshenko/browse/task2/Task%202.pdf?at=task2).  
+Task description is in file [Task2.pdf](https://github.com/nastyasteshchenko/CFT_Shift_tasks/blob/main/2024_01_steshenko/task2/Task%202.pdf).  
 
 The units of measurement in this program are centimeters.    
 
