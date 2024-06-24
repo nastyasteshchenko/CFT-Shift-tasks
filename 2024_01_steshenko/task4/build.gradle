@@ -1,0 +1,29 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'focus.start.task4'
+version = '1.0-SNAPSHOT'
+
+application {
+    mainClass = 'focus.start.task4.Main'
+}
+
+run {
+    standardInput = System.in
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    implementation group: 'ch.qos.logback', name: 'logback-classic', version: '1.4.14'
+}
+
+test {
+    useJUnitPlatform()
+}
